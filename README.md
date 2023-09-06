@@ -1,5 +1,4 @@
-# (In progress)
-# Entertainment Review ![badge](https://img.shields.io/badge/Project%202-blue)
+# Entertainment Review ![badge](https://img.shields.io/badge/Project%202-blue) ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Table of Contents
 
@@ -8,8 +7,7 @@
 - [Key Features](#key-features)
     - [Diverse Entertainment Categories](#1-diverse-entertainment-categories)
     - [User Reviews and Ratings](#2-user-reviews-and-ratings)
-    - [Personalized Recommendations](#3-personalized-recommendations)
-    - [Personalized Recommendations](#3-personalized-recommendations)
+    - [Personalized Recommendations](#3-personalized-recommendations) 
     - [Community Engagement](#4-community-engagement)
     - [User-Friendly Interface](#5-user-friendly-interface)
     - [Upcoming Releases](#6-upcoming-releases)
@@ -22,13 +20,19 @@
   - [Testing](#testing)
 - [Features](#features)
 - [Usage](#usage)
-- [Contribution Guidelines](#contribution-guidelines)
 - [License](#license)
+- [Contribution Guidelines](#contribution-guidelines)
+- [Links](#links)
 
 ## Description
 
 <p>In our second bootcamp project our team decided to build a website for reviewing Games, Movies and TV shows.</p>
 <p>We have fleshed out our ideas on our initial brainstorming session and seetled on creating a website for reviewing entertainment media (Games, Movies and Tvshows)</p>
+<p>We have decided to work on different components of our projects.</p>
+
+* <b>Team-Head</b> Jesse Chen is responsible for the front-end, functionalities and debugging.
+* <b>Team-Member</b> Renny Mwangi is responsible for creating the routes and debugging.
+* <b>Team-Member</b> Mohammed Arshad is responsible for creating the database,seeds and relations.
 
 Welcome to our Entertainment Review Platform, the ultimate destination for movie, game, and TV show enthusiasts to discover, review, and discuss their favorite entertainment experiences!
 ## About Us
@@ -152,33 +156,36 @@ Now your database is populated with initial data and ready for testing.
 3. After starting the application, you can initialize Tailwind CSS by running the following command in a separate terminal:
     - `npm run tailwind`
     - `make sure that both npm start and tailwind are running concurrently`
-4. The application should now be running at http://localhost:3001 by default
-### Collaboration
-<p>We have decided to work on different components of our projects.</p>
+4. The application should now be running at http://localhost:3001 by default.
 
-* <b>Team-Head</b> Jesse Chen is responsible for the front-end, functionalities and debugging.
-* <b>Team-Member</b> Renny Mwangi is responsible for creating the routes and debugging.
-* <b>Team-Member</b> Mohammed Arshad is responsible for creating the database,seeds and relations.
+## License
 
-### Challenges
+`Copyright © 2023 Jesse Chen,Renny Mwangi,Mohammed Arshad,Tanya Du`
 
-### Running This Project
-<p>This website is live in heroku. The link would be available below</p>
-<p>To run this project in local machine follow the given steps:
-<ul>
-<li>Clone this project in your local machine</li>
-<li>Modify the .env file</li>
-<li>Run <mark style="font-weight: bold;background-color: lightgrey">`npm run tailwind`</mark> in your bash/command line</li>
-<li>Run <mark style="font-weight: bold; background-color: lightgrey">npm i</mark> in your bash/command line</li>
-<li>Host the project in your local machine</li>
+```
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, Please also refer to our community guidelines.
 
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-</ul></p>
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+```
 
-### Future Developments
+## Contribution Guidelines
+```
+1. Familiarize yourself with MIT license terms
+2. Clone the project's repository to your local machine.
+3. Create a seperate branch of your work.
+4. Develop well-structured and well-documented code.
+5. Run tests to ensure your changes work.
+6. License your contributions under the terms of the MIT License.
+7. Be respectful and collaborative in discussions.
+```
+
 
 ### Links
-Github Repository:
+Github Repository: https://github.com/JesseCh3n/entertainment_review
 
-Heroku application:
+Heroku application: https://evening-cove-52840-9f06a2ce0b05.herokuapp.com/
+
+
 
