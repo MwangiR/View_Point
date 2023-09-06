@@ -1,4 +1,4 @@
-# Entertainment Review ![badge](https://img.shields.io/badge/Project%202-blue) ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+# Entertainment Review ![badge](https://img.shields.io/badge/Project%202-blue) ![License: MIT](https://badgen.net/badge/License/MIT/?icon=github)
 
 ## Table of Contents
 
@@ -17,9 +17,6 @@
   - [Database Setup](#database-setup)
   - [Seeding](#seeding)
   - [Starting the server](#starting-the-server)
-  - [Testing](#testing)
-- [Features](#features)
-- [Usage](#usage)
 - [License](#license)
 - [Contribution Guidelines](#contribution-guidelines)
 - [Links](#links)
@@ -163,7 +160,7 @@ Now your database is populated with initial data and ready for testing.
 `Copyright © 2023 Jesse Chen,Renny Mwangi,Mohammed Arshad,Tanya Du`
 
 ```
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, Please also refer to our community guidelines.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
@@ -182,10 +179,13 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 ```
 
 
-### Links
-Github Repository: https://github.com/JesseCh3n/entertainment_review
+## Links 
+![badge](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=White)
+![badge](https://img.shields.io/badge/Heroku-black?style=for-the-badge&logo=heroku&logoColor=White)
 
-Heroku application: https://evening-cove-52840-9f06a2ce0b05.herokuapp.com/
+[Github Repository](https://github.com/JesseCh3n/entertainment_review) 
+
+[Heroku application](https://evening-cove-52840-9f06a2ce0b05.herokuapp.com/)
 
 
 
