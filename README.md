@@ -31,6 +31,14 @@
 * <b>Team-Member</b> Renny Mwangi is responsible for creating the routes and debugging.
 * <b>Team-Member</b> Mohammed Arshad is responsible for creating the database,seeds and relations.
 
+Along our way we have encountered few challenges in achieving our goals. Some of the challenges are as follows:
+
+* We had no prior knowledge of full stack development.
+*  There is a substantial amount of documentation to refer when working with 3rd party packages like Sequelize and Handlebars.
+* We have encountered few issues because the front-end and back-end did not line up at the beginning of the project.
+* Modification to the database, were made during the midway of the project.
+* We had difficulties in setting up Tailwind and Flowbite.
+
 Welcome to our Entertainment Review Platform, the ultimate destination for movie, game, and TV show enthusiasts to discover, review, and discuss their favorite entertainment experiences!
 ## About Us
 
@@ -190,8 +198,8 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 
 ## Links 
-![badge](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=White)
-![badge](https://img.shields.io/badge/Heroku-black?style=for-the-badge&logo=heroku&logoColor=White)
+[![badge](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=White)](https://github.com/JesseCh3n/entertainment_review)
+[![badge](https://img.shields.io/badge/Heroku-black?style=for-the-badge&logo=heroku&logoColor=White)](https://evening-cove-52840-9f06a2ce0b05.herokuapp.com/)
 
 [Github Repository](https://github.com/JesseCh3n/entertainment_review) 
 
