@@ -30,6 +30,7 @@
 * <b>Team-Head</b> Jesse Chen is responsible for the front-end, functionalities and debugging.
 * <b>Team-Member</b> Renny Mwangi is responsible for creating the routes and debugging.
 * <b>Team-Member</b> Mohammed Arshad is responsible for creating the database,seeds and relations.
+* <b>Team-Member</b> Tanya Du has contributed to the database.
 
 Along our way we have encountered few challenges in achieving our goals. Some of the challenges are as follows:
 
