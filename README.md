@@ -81,6 +81,7 @@ Stay in the loop with our curated list of upcoming movies, games, and TV shows. 
 Whether you're a cinephile, a dedicated gamer, or a TV show fanatic, our Entertainment Review Platform is your hub for all things entertainment. Join our community today to share, discover, and discuss your favorite movies, games, and TV shows!
 
 ![Image](/images/homepage.png)
+![Image](/images/image.png)
 
 ## Technologies Used
 
