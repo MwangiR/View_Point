@@ -1,4 +1,4 @@
-# Entertainment Review ![badge](https://img.shields.io/badge/Project%202-blue) ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+# Entertainment Review ![badge](https://img.shields.io/badge/Project%202-blue) ![License: MIT](https://badgen.net/badge/License/MIT/?icon=github)
 
 ## Table of Contents
 
@@ -17,9 +17,6 @@
   - [Database Setup](#database-setup)
   - [Seeding](#seeding)
   - [Starting the server](#starting-the-server)
-  - [Testing](#testing)
-- [Features](#features)
-- [Usage](#usage)
 - [License](#license)
 - [Contribution Guidelines](#contribution-guidelines)
 - [Links](#links)
@@ -100,6 +97,16 @@ Whether you're a cinephile, a dedicated gamer, or a TV show fanatic, our Enterta
 Reviewing an entertainment media can be beneficial to both the consumers and creators. For consumers it can provide value for money and time. Whereas, for creators it can provide insight for improvement and engagement.`
 
 ## Installation
+[![npm](https://badgen.net/badge/bcrypt/v5.0.0/)](https://www.npmjs.com/package/bcrypt/v/5.0.0)
+[![connect session sequelize](https://img.shields.io/badge/connect_session_sequelize-v7.0.4-green)](https://www.npmjs.com/package/connect-session-sequelize/v/7.0.4)
+[![dotenv](https://img.shields.io/badge/dotenv-v8.2.0-red)](https://www.npmjs.com/package/dotenv/v/8.2.0)
+[![express](https://img.shields.io/badge/express-v4.17.1-yellow)](https://www.npmjs.com/package/express/v/4.17.1)
+[![express handlebars](https://img.shields.io/badge/express_handlebars-v5.2.0-seafoam)](https://www.npmjs.com/package/express-handlebars/v/5.2.0)
+[![express sessions](https://img.shields.io/badge/express_sessions-v1.17.1-cyan)](https://www.npmjs.com/package/express-session/v/1.17.1)
+[![flowbite](https://img.shields.io/badge/flowbite-v1.8.1-magenta)](https://www.npmjs.com/package/flowbite)
+[![mysql2](https://img.shields.io/badge/mysql2-v2.2.5-purple)](https://www.npmjs.com/package/mysql2/v/2.2.5)
+[![sequelize](https://img.shields.io/badge/sequelize-v6.3.5-indigo)](https://www.npmjs.com/package/sequelize/v/6.3.5)
+[![tailwindcss](https://img.shields.io/badge/tailwindcss-v3.3.3-orange)](https://www.npmjs.com/package/tailwindcss/v/3.3.3)
 
 1. Clone the repository: `git clone https://github.com/JesseCh3n/entertainment_review.git`
 2. Open in VS Code. If not installed, [install VS Code](https://code.visualstudio.com/).
@@ -163,7 +170,7 @@ Now your database is populated with initial data and ready for testing.
 `Copyright © 2023 Jesse Chen,Renny Mwangi,Mohammed Arshad,Tanya Du`
 
 ```
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, Please also refer to our community guidelines.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
@@ -182,10 +189,13 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 ```
 
 
-### Links
-Github Repository: https://github.com/JesseCh3n/entertainment_review
+## Links 
+![badge](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=White)
+![badge](https://img.shields.io/badge/Heroku-black?style=for-the-badge&logo=heroku&logoColor=White)
 
-Heroku application: https://evening-cove-52840-9f06a2ce0b05.herokuapp.com/
+[Github Repository](https://github.com/JesseCh3n/entertainment_review) 
+
+[Heroku application](https://evening-cove-52840-9f06a2ce0b05.herokuapp.com/)
 
 
 
