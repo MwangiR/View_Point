@@ -97,6 +97,7 @@ Whether you're a cinephile, a dedicated gamer, or a TV show fanatic, our Enterta
 Reviewing an entertainment media can be beneficial to both the consumers and creators. For consumers it can provide value for money and time. Whereas, for creators it can provide insight for improvement and engagement.`
 
 ## Installation
+[![npm](https://badgen.net/badge/bcrypt/v5.0.0/)](https://www.npmjs.com/package/bcrypt/v/5.0.0)
 
 1. Clone the repository: `git clone https://github.com/JesseCh3n/entertainment_review.git`
 2. Open in VS Code. If not installed, [install VS Code](https://code.visualstudio.com/).
