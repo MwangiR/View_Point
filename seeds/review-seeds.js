@@ -841,6 +841,61 @@ const reviewData = [
         rating: 4,
         user_id: 2,
     },
+    {
+        text: "Red Dead Redemption is a wild west masterpiece, combining epic storytelling and open-world freedom.",
+        item_id: 16,
+        rating: 5,
+        user_id: 1,
+    },
+    {
+        text: "The game's richly detailed world feels alive, and its characters are unforgettable.",
+        item_id: 16,
+        rating: 5,
+        user_id: 3,
+    },
+    {
+        text: "It's a virtual playground for cowboy dreams, offering thrilling shootouts and breathtaking scenery.",
+        item_id: 16,
+        rating: 5,
+        user_id: 4,
+    },
+    {
+        text: "Red Dead Redemption's moral choices and honor system add depth to the gameplay.",
+        item_id: 16,
+        rating: 5,
+        user_id: 5,
+    },
+    {
+        text: "The story of John Marston is a gripping tale of redemption and revenge.",
+        item_id: 16,
+        rating: 4,
+        user_id: 6,
+    },
+    {
+        text: "The game's attention to detail, from wildlife to gunfights, is awe-inspiring.",
+        item_id: 16,
+        rating: 5,
+        user_id: 7,
+    },
+    {
+        text: "While the world is beautifully crafted, the pacing and repetitive missions left me disinterested.",
+        item_id: 16,
+        rating: 2,
+        user_id: 8,
+    },
+    {
+        text: "Red Dead Redemption's multiplayer component, Red Dead Online, offers endless fun with friends.",
+        item_id: 16,
+        rating: 5,
+        user_id: 9,
+    },
+    {
+        text: "A timeless classic that sets the bar high for open-world gaming experiences.",
+        item_id: 16,
+        rating: 5,
+        user_id: 10,
+    },
+
     //Harry Potter and the prisoner of azkaban
     {
         text: "The story was well enough told. There were confusing parts when explaining certain characters and creators.",
