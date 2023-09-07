@@ -909,6 +909,55 @@ const reviewData = [
         rating: 5,
         user_id: 1,
     },
+    {
+        text: "It's a visually stunning film with moments of brilliance, but the story felt somewhat disjointed, leaving me with mixed feelings.",
+        item_id: 17,
+        rating: 3,
+        user_id: 2,
+    },
+    {
+        text: "While it introduces interesting elements, I found the departure from the previous tone a bit jarring, making it a mixed installment in the series.",
+        item_id: 17,
+        rating: 3,
+        user_id: 4,
+    },
+    {
+        text: "Azkaban breathes new life into the Harry Potter series with its darker tone and magical storytelling.",
+        item_id: 17,
+        rating: 4,
+        user_id: 5,
+    },
+    {
+        text: "The introduction of Sirius Black and the Marauder's Map adds depth to the wizarding world",
+        item_id: 17,
+        rating: 5,
+        user_id: 6,
+    },
+    {
+        text: "This installment's visual effects are spellbinding, and the Dementors are truly chilling.",
+        item_id: 17,
+        rating: 5,
+        user_id: 7,
+    },
+    {
+        text: "The time-travel element adds an intriguing layer to the story, and the performances are top-notch.",
+        item_id: 17,
+        rating: 4,
+        user_id: 8,
+    },
+    {
+        text: "The film balances humor and heart, making it a standout in the Harry Potter franchise.",
+        item_id: 17,
+        rating: 5,
+        user_id: 9,
+    },
+    {
+        text: "It's a visually stunning film with moments of brilliance, but the story felt somewhat disjointed, leaving me with mixed feelings.",
+        item_id: 17,
+        rating: 3,
+        user_id: 10,
+    },
+
     //Stranger Things S4
     {
         text: "How refreshing it is, then, to find that the just-concluded fourth season returns to the brilliant heights of its first.",
