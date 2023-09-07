@@ -98,6 +98,15 @@ Reviewing an entertainment media can be beneficial to both the consumers and cre
 
 ## Installation
 [![npm](https://badgen.net/badge/bcrypt/v5.0.0/)](https://www.npmjs.com/package/bcrypt/v/5.0.0)
+[![connect session sequelize](https://img.shields.io/badge/connect_session_sequelize-v7.0.4-green)](https://www.npmjs.com/package/connect-session-sequelize/v/7.0.4)
+[![dotenv](https://img.shields.io/badge/dotenv-v8.2.0-red)](https://www.npmjs.com/package/dotenv/v/8.2.0)
+[![express](https://img.shields.io/badge/express-v4.17.1-yellow)](https://www.npmjs.com/package/express/v/4.17.1)
+[![express handlebars](https://img.shields.io/badge/express_handlebars-v5.2.0-seafoam)](https://www.npmjs.com/package/express-handlebars/v/5.2.0)
+[![express sessions](https://img.shields.io/badge/express_sessions-v1.17.1-cyan)](https://www.npmjs.com/package/express-session/v/1.17.1)
+[![flowbite](https://img.shields.io/badge/flowbite-v1.8.1-magenta)](https://www.npmjs.com/package/flowbite)
+[![mysql2](https://img.shields.io/badge/mysql2-v2.2.5-purple)](https://www.npmjs.com/package/mysql2/v/2.2.5)
+[![sequelize](https://img.shields.io/badge/sequelize-v6.3.5-indigo)](https://www.npmjs.com/package/sequelize/v/6.3.5)
+[![tailwindcss](https://img.shields.io/badge/tailwindcss-v3.3.3-orange)](https://www.npmjs.com/package/tailwindcss/v/3.3.3)
 
 1. Clone the repository: `git clone https://github.com/JesseCh3n/entertainment_review.git`
 2. Open in VS Code. If not installed, [install VS Code](https://code.visualstudio.com/).
