@@ -32,7 +32,7 @@
 * <b>Team-Member</b> Mohammed Arshad is responsible for creating the database,seeds and relations.
 
 Along our way we have encountered few challenges in achieving our goals. Some of the challenges are as follows:
-``
+
 * We had no prior knowledge of full stack development.
 *  There is a substantial amount of documentation to refer when working with 3rd party packages like Sequelize and Handlebars.
 * We have encountered few issues because the front-end and back-end did not line up at the beginning of the project.
