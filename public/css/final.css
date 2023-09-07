@@ -1170,6 +1170,10 @@ input:checked + .toggle-bg {
   grid-row-start: 7;
 }
 
+.float-right {
+  float: right;
+}
+
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
@@ -1201,6 +1205,10 @@ input:checked + .toggle-bg {
 
 .mr-3 {
   margin-right: 0.75rem;
+}
+
+.mr-6 {
+  margin-right: 1.5rem;
 }
 
 .mt-0 {
@@ -1703,6 +1711,10 @@ input:checked + .toggle-bg {
   padding-bottom: 0.75rem;
 }
 
+.pb-14 {
+  padding-bottom: 3.5rem;
+}
+
 .pl-3 {
   padding-left: 0.75rem;
 }
@@ -2176,6 +2188,11 @@ input:checked + .toggle-bg {
 :is(.dark .dark\:focus\:ring-purple-900:focus) {
   --tw-ring-opacity: 1;
   --tw-ring-color: rgb(74 29 150 / var(--tw-ring-opacity));
+}
+
+:is(.dark .dark\:focus\:ring-red-800:focus) {
+  --tw-ring-opacity: 1;
+  --tw-ring-color: rgb(155 28 28 / var(--tw-ring-opacity));
 }
 
 :is(.dark .dark\:focus\:ring-red-900:focus) {
